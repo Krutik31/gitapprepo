@@ -1,1 +1,1 @@
-console.log("Hello Simform");
+console.log("Hello");
